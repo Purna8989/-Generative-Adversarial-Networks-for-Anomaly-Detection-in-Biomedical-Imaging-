@@ -19,15 +19,5 @@ works (GANs) have made significant progress. However, their effectiveness in bio
 
 
 
- Root Structure:
- project/
-│
-├── datasets/                # Place to store datasets
-├── models/                  # Implementation of f-AnoGAN, GANomaly, Multi-KD
-├── utils/                   # Utility scripts (data loaders, evaluation metrics)
-├── notebooks/               # Jupyter notebooks for interactive testing
-├── main.py                  # Main script to train models
-├── requirements.txt         # Python dependencies
-├── README.md                # Instructions for usage
-└── outputs/                 # Save results (e.g., visualizations, logs)
+ 
 
